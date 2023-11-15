@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1052379479470-f5pvhjjs2qc985sbkd2ae7ogqjp59ick.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1052379479470-f5pvhjjs2qc985sbkd2ae7ogqjp59ick</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwZLeAfHMxYFo4ui8jjw_BoN3V2vsqUhw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1052379479470</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dietAccess</string>
+	<key>PROJECT_ID</key>
+	<string>diet-access</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diet-access.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1052379479470:ios:340679a49b9b0ee2b11c3f</string>
+</dict>
+</plist>

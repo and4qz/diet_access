@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052379479470",
+    "project_id": "diet-access",
+    "storage_bucket": "diet-access.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052379479470:android:f3e13b4921741c83b11c3f",
+        "android_client_info": {
+          "package_name": "com.example.diet_access"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052379479470-2lgg8b456bimpsmut84gkg11aou8ngu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjHmbQp0CREWT-HncUFlZ4FaXc0WE_xek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052379479470-2lgg8b456bimpsmut84gkg11aou8ngu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
